@@ -4,5 +4,5 @@
 ![ Screenshot](image/img3.png)
 
 ### After moving mouse throghout the screen
-(image/img1.png)
+![ Screenshot](image/img1.png)
 
