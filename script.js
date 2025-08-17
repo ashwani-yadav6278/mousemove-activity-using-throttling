@@ -39,7 +39,7 @@ document.querySelector("#root").addEventListener("mousemove",throttleFunction((d
   })
   gsap.to(img,{
     y:"100%",
-    delay:.6,
+    delay:1,
 
     ease:Power2,
   })
